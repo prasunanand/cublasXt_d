@@ -1,0 +1,10 @@
+{
+	"name": "cuda_d_examples",
+	"authors": [
+		"Prasun Anand"
+	],
+  "libs" : [ "cuda", "cublas", "cudart" ],
+	"description": "CUDA examples in D",
+	"copyright": "Copyright © 2017, prasun",
+	"license": "BSD 3 Clause"
+}
