@@ -3,8 +3,7 @@
 	"authors": [
 		"Prasun Anand"
 	],
-  "libs" : [ "cuda", "cublas", "cudart" ],
+  "libs" : [ "cuda", "cublas", "cudart" , "curand"],
 	"description": "CUDA examples in D",
-	"copyright": "Copyright © 2017, prasun",
 	"license": "BSD 3 Clause"
 }
